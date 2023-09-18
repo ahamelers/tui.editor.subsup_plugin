@@ -1,5 +1,6 @@
 {
   "name": "tui.editor.supsup_plugin",
+  "version": "1.0.0",
   "scripts": {
     "lint": "eslint '**/*.{jsx,js}' --fix"
   },
